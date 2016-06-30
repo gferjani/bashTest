@@ -1,2 +1,2 @@
-yop yop c'est un test de feature2
-:
+je fais encore un autre fichier pour feature 2
+je veux un conflit =)
