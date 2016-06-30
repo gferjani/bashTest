@@ -1,2 +1,2 @@
-je fais encore un autre fichier pour feature 2
-je veux un conflit =)
+j'ai résolu le conflit
+Cette phrase n'a rien a voir avec master
